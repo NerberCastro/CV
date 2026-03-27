@@ -32,4 +32,5 @@ Estudiante de Desarrollo de Aplicaciones Web con base en HTML, CSS y JavaScript,
 ## 📫 Contacto
 
 Si quieres contactarme, escríbeme a **castronerber@gmail.com** o conéctate conmigo en [LinkedIn](https://linkedin.com/in/nerbercastrogarcia).# CV
+
 CV de Nerber Castro - Estudiante de Desarrollo de Aplicaciones Web
