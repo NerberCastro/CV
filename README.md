@@ -10,7 +10,7 @@
 
 ## 📄 Mi CV
 
-[🔽 Ver mi CV en PDF](./CV_NerberCastro.pdf)
+[🔽 Ver mi CV en PDF](./CV_NERBER_CASTRO.pdf)
 
 ---
 
